@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## 🔭 I'm working on robots hardware and programming.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={KODAMA Gentaro}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={misohiyoko}
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
